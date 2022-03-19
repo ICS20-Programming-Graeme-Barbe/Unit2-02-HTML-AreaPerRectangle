@@ -1,0 +1,16 @@
+/* Created by: Graeme
+* Created on: March 19
+* This CSS file defines the style for index2.html
+* ICS2O-Unit2-02-HTML-AreaPerRectangle
+*/
+
+body {
+	background-color: darkgoldenrod;
+}
+
+h1 {
+	background-color: #ADD8E6;
+	color: hsl(270, 50%, 40%);
+	padding: 40px;
+	text-align: center;
+}
