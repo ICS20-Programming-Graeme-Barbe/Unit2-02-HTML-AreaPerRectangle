@@ -4,6 +4,6 @@
 
 // Function for math
 function ButtonClicked () {
-	document.getElementById('add-math').innerHTML = 'The perimiter is ' + (3 + 3 + 5 + 5)
-	document.getElementById('multiply-math').innerHTML = 'The area is ' + (3 * 5)
+	document.getElementById('add-math').innerHTML = 'The perimeter is ' + (3 + 3 + 5 + 5) + "cm"
+	document.getElementById('multiply-math').innerHTML = 'The area is ' + (3 * 5) + "cm²"
 }
